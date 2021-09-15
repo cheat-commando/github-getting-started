@@ -9,3 +9,8 @@ Mauris imperdiet porta venenatis. Maecenas eleifend nec ipsum convallis sagittis
 Aenean in eros interdum, laoreet elit eget, venenatis odio. Donec facilisis imperdiet augue, vitae ullamcorper ex euismod at. Curabitur euismod tortor et elit porttitor, et mollis quam posuere. Nulla pellentesque nisl ut velit iaculis bibendum. Donec vel nulla sit amet mi efficitur lobortis. Curabitur sed nisi tempor, placerat urna ac, pharetra purus. Morbi at diam vel nibh tincidunt tempor a at purus. Nunc lobortis sem in elit tristique blandit. Proin a eleifend justo. Aenean ultrices erat eget nibh faucibus viverra et eu neque. Curabitur consequat nisl in rhoncus tempor. Nullam dignissim sit amet enim et finibus. Donec sit amet augue vitae ligula commodo egestas vel a mi.
 
 Aenean sed urna quis velit lacinia accumsan et et est. Suspendisse elementum quis nisi eget pellentesque. Vestibulum vitae leo efficitur, dictum odio sit amet, commodo risus. Nulla faucibus magna purus, ut posuere orci pellentesque ut. In bibendum mauris elit. Fusce ultrices augue fermentum, facilisis elit nec, feugiat sapien. Nulla tincidunt ut magna ut condimentum. Integer sed ligula vel justo venenatis sagittis nec at ex. Praesent ut eros tincidunt, lacinia ante vitae, malesuada quam. Ut semper condimentum posuere.
+
+Installation Instructions:
+--------------------------
+
+* make sure you do the thing, and then when you've finished, unplug your computer and drink some water
