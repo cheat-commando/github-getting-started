@@ -10,6 +10,7 @@ Aenean in eros interdum, laoreet elit eget, venenatis odio. Donec facilisis impe
 
 Aenean sed urna quis velit lacinia accumsan et et est. Suspendisse elementum quis nisi eget pellentesque. Vestibulum vitae leo efficitur, dictum odio sit amet, commodo risus. Nulla faucibus magna purus, ut posuere orci pellentesque ut. In bibendum mauris elit. Fusce ultrices augue fermentum, facilisis elit nec, feugiat sapien. Nulla tincidunt ut magna ut condimentum. Integer sed ligula vel justo venenatis sagittis nec at ex. Praesent ut eros tincidunt, lacinia ante vitae, malesuada quam. Ut semper condimentum posuere.
 
-Troubleshooting
----------------
+Installation Instructions:
+--------------------------
 
+* make sure you do the thing, and then when you've finished, unplug your computer and drink some water
